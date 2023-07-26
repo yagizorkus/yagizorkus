@@ -1,4 +1,4 @@
-a
+
 
 <!-- <h1 align="center">Hi , I'm Yağız Örküş</h1>
 <h3 align="center">I'm learning Front-End tech.</h3>
